@@ -27,4 +27,4 @@ def my_function():
 my_function()
 # Trying to use the local variable 'x' outside the function
 # This will cause an error since 'x' is not defined outside the function.
-print("Outside the function:", x)
+#print("Outside the function:", x)
