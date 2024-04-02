@@ -1,0 +1,10 @@
+Math: Arfan, Aadil
+CS: Arfan, Adnan
+DSA: Arfan, Adnan
+Programming: Adnan, Aadil
+UI/UX: Aadil
+History: Rayaan
+Literature: Rayaan, Azlaan
+Arts: Rayaan, Haadi
+Geography: Azlaan, Haadi
+Politics: Azlaan, Haadi
