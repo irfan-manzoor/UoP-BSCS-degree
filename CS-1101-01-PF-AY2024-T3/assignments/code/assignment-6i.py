@@ -1,7 +1,7 @@
 # Initial employee names
-employee_names = ["Irfan Manzoor", "Adnan M. Ahmad", "Aadil M. Wali", "Rayaan Irfan", 
-                  "Azlaan Ahmad", "Abdal Haadi", "Mutahira Arsalan", "Kahdeeja Mir", 
-                  "Marium Khan", "Aliza Khan"]
+employee_names = ["Irfan", "Adnan", "Aadil", "Rayaan", 
+                  "Azlaan", "Haadi", "Mutahira", "Kahdeeja", 
+                  "Marium", "Aliza"]
 
 # Create sub-lists with 5 names each
 subList1 = employee_names[:5]  # First 5 names
